@@ -1,0 +1,13 @@
+{
+  "hardware": "solar-s3-480-v1",
+  "version": "v1.0.0",
+  "commit": "575e3f7cb7b3",
+  "schema": 1,
+  "image_size": 1827216,
+  "sha256": "c086df5ba06cc3fa5aefe0cea807d8f1e34e2dbd2a763be7816caabb0863acd2",
+  "format": "solarota-1",
+  "project": "solar-display",
+  "channel": "stable",
+  "package_url": "https://github.com/toblum/firmware-releases/releases/download/solar-display-v1.0.0/firmware.solarota",
+  "package_size": 1827372
+}
