@@ -1,13 +1,13 @@
 {
   "hardware": "solar-s3-480-v1",
-  "version": "v1.0.4",
-  "commit": "e9971ab18c1e",
+  "version": "v1.0.5",
+  "commit": "dc6070bc1732",
   "schema": 1,
-  "image_size": 1840960,
-  "sha256": "15ed3a17ea9d0836d5db302d4ad00fbdb5b6b86747db87195ef5ed54bc4ba2a4",
+  "image_size": 1849328,
+  "sha256": "9e2dac029316ae35895ba674f6f8df15844f8944b76ac2ae0dafcb271a4cb81d",
   "format": "solarota-1",
   "project": "solar-display",
   "channel": "stable",
-  "package_url": "https://github.com/toblum/firmware-releases/releases/download/solar-display-v1.0.4/firmware.solarota",
-  "package_size": 1841116
+  "package_url": "https://github.com/toblum/firmware-releases/releases/download/solar-display-v1.0.5/firmware.solarota",
+  "package_size": 1849484
 }
